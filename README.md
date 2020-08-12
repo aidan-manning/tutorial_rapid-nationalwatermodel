@@ -58,7 +58,7 @@ Make a new directory specific to your Github repositories on this server.
 Clone the github repository by running the command:
 
 ```
-`git clone https://github.com/christinab/nwm.git`
+> git clone https://github.com/christinab/nwm.git
 
 ```
 ### Notebook User Instructions for interactive compute on [CSDMS JupyterHub](https://www)
