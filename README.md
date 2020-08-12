@@ -145,6 +145,14 @@ plt.ylabel('{} ({})'.format(var_name, var_unit))
 plt.title('Short range streamflow forecast for Channel 5781915 during Harvey Hurricane Event')
 ```
 
+We agree that the resulting products from work would be issued under a Creative Commons License Attribution-NonCommercial 4.0 International. 
+
+We agreed to add language to any contract (below) that provides for me a non-exclusive, irrevocable, global, royalty-free license to the work produced, and that all publicly distributed copies of work prepared under this contract shall indicate the names of the author(s) [based on these community instructions]. 
+
+The CONTRACTOR shall have a non-exclusive, irrevocable, global, royalty-free license to translate, reproduce and publicly distribute articles, reports, books, Powerpoint slides, Jupyter notebooks, videos, webcasts and any such material arising under this Contract for non-commercial purposes.
+
+The CONTRACTOR agrees that payment listed purchases all print and electronic rights including electronic reproduction, transmission, display or distribution of work prepared under this Contract.  All publicly distributed copies of a copyrighted work prepared under this Contract shall indicate the name(s) of the author(s) of the work.
+
 
 ```
 
