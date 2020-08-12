@@ -7,7 +7,7 @@ These examples Python library to fetch and process the National Water Model (NWM
 
 If you have any suggestion to improve the current function of the NWM python library, please create a github issue to connect with Tian
 [here](https://github.com/gantian127/nwm/issues).
-If you have any suggestion to improve the Notebooks used to customize access to NWM data, please create a github issue to connect with Christina [here]((https://github.com/cband/nwm/issues).
+If you have any suggestion to improve the Notebooks used to customize access to NWM data, please create a github issue to connect with Christina [here](https://github.com/cband/nwm/issues).
 
 ## Online Resources and Steps to Get Oriented to the National Water Model
 
@@ -28,14 +28,13 @@ https://www.esri.com/en-us/industries/water/segments/water-resources/national-wa
 
 ### Notebook User Instructions for interactive compute [CUAHSI Compute]
 
-Go to HydroShare.org and login
-www.hydroshare.org  
+Go to HydroShare.org and login at www.hydroshare.org  
 
 Do one time: Go to Collaborate, Find the CUAHSI Compute Group, Ask to Join.
 
 Next time: Go directly to https://jupyterhub.cuahsi.org
 
-New users: Get familiar with JupyterHub platform with [Juptyer Notebook new user instructions].   and [JuptyerHub Documentation](https://jupyterhub.readthedocs.io/en/stable/index.html)
+New users: Get familiar with JupyterHub platform with [Juptyer Notebook new user instructions] and [JuptyerHub Documentation](https://jupyterhub.readthedocs.io/en/stable/index.html)
 
 3. Launch CUAHSI JupyterHub (or go to jupyterhub.cuahsi.org) and choose the WaterHackWeek 2020 environment profile.
 This environment will contain all the libraries that we need.
@@ -46,16 +45,15 @@ This environment will contain all the libraries that we need.
 
 The terminal opens in /home/jovyan/)
 
-$ cd data/
-Make a new directory specific to your Github repositories on this server. /
-$ mkdir Github/
-OR/
-$ mkdir IntelligentEarth/
-OR/
-$ mkdir waterhackweek/
-Clone the github repository by running the command:/
-$ git clone /
-$ git clone https://github.com/waterhackweek/whw2020_covid19.git/
+`cd data`\
+Make a new directory specific to your Github repositories on this server. 
+`mkdir Github`\
+OR
+`mkdir IntelligentEarth`
+OR
+`mkdir waterhackweek`
+Clone the github repository by running the command:
+`git clone https://github.com/waterhackweek/whw2020_covid19.git`
 
 ### Notebook User Instructions for interactive compute on [CSDMS JupyterHub](https://www)
 Work in Progress.
