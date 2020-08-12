@@ -43,18 +43,24 @@ This environment will contain all the libraries that we need.
 
 5. Open an new "Terminal" session and clone the github repository by running the command:
 
-The terminal opens in /home/jovyan/)
+The terminal opens in /home/jovyan/
 
-`cd data`\
+```
+> cd data
+
+```
 Make a new directory specific to your Github repositories on this server. 
-`mkdir Github`\
-OR
-`mkdir IntelligentEarth`
-OR
-`mkdir waterhackweek`
-Clone the github repository by running the command:
-`git clone https://github.com/waterhackweek/whw2020_covid19.git`
 
+```
+> mkdir Github`     OR    > `mkdir IntelligentEarth`     OR     > `mkdir waterhackweek`
+
+```
+Clone the github repository by running the command:
+
+```
+`git clone https://github.com/christinab/nwm.git`
+
+```
 ### Notebook User Instructions for interactive compute on [CSDMS JupyterHub](https://www)
 Work in Progress.
 
