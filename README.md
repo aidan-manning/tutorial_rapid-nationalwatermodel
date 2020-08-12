@@ -7,11 +7,55 @@
 
 Python library to fetch and process the National Water Model (NWM) NetCDF datasets. 
 
-If you have any suggestion to improve the current function, please create a github issue 
+If you have any suggestion to improve the current function of the NWM python library, please create a github issue to connect with Tian
 [here](https://github.com/gantian127/nwm/issues).
-## Get Started
+If you have any suggestion to improve the Notebooks used to customize access to NWM data, please create a github issue to connect with Christina [here]((https://github.com/cband/nwm/issues).
 
+## Online Resources and Steps to Get Oriented to the National Water Model
 
+https://ral.ucar.edu/solutions/products/hydroinspector
+https://water.noaa.gov/map
+https://toolkit.climate.gov/tool/national-water-model
+https://www.esri.com/en-us/industries/water/segments/water-resources/national-water-model
+[YouTube Link to Presentation on Flooding:](https://www.youtube.com/watch?v=vywi-Z8RjY0&feature=youtu.be)
+
+[Intelligent Earth Collective Notebooks](https://www.hydroshare.org/resource/86bf0fc015af49c49805b56f5a13bf21/)
+ Analysis of Vegetation Damage Caused by an Hurricane using Matlab 
+ 
+## Technical Steps to Get Started 
+
+### Notebook User Instructions for interactive compute [CUAHSI Compute]
+
+Go to HydroShare.org and login
+www.hydroshare.org  
+Do one time: Go to Collaborate, Find the CUAHSI Compute Group, Ask to Join.
+Next time: Go directly to https://jupyterhub.cuahsi.org
+New users: Get familiar with JupyterHub platform with [Juptyer Notebook new user instructions].   and [JuptyerHub Documentation](https://jupyterhub.readthedocs.io/en/stable/index.html)
+2. 
+3. Launch CUAHSI JupyterHub (or go to jupyterhub.cuahsi.org) and choose the WaterHackWeek 2020 environment profile. This environment will contain all the libraries that we need.
+4. In the Jupyterlab view,  Create a new folder called "Waterhackweek"` (this creates a folder in /home/jovyan/data)
+5. Open an new "Terminal" session and clone the github repository by running the command:
+The terminal opens in /home/jovyan/)
+$ cd data/
+Make a new directory specific to your Github repositories on this server. 
+$ mkdir Github/
+OR
+$ mkdir IntelligentEarth/
+OR
+$ mkdir waterhackweek/
+Clone the github repository by running the command:
+$ git clone 
+$ git clone https://github.com/waterhackweek/whw2020_covid19.git
+
+  
+
+### Notebook User Instructions for interactive compute on [CSDMS JupyterHub](https://www)
+Work in Progress.
+
+### Notebook User Instructions for interactive compute on [CyberGIS for Water](https://www.hydroshare.org/group/157)
+Work in Progress.
+ 
+### Developer Instructions
 
 #### Install package
 
@@ -91,5 +135,8 @@ plt.plot(time_array, stream_array)
 plt.xlabel('Year 2017')
 plt.ylabel('{} ({})'.format(var_name, var_unit))
 plt.title('Short range streamflow forecast for Channel 5781915 during Harvey Hurricane Event')
+```
+
+
 ```
 
