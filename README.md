@@ -1,11 +1,9 @@
-# nwm
+# RAPID access to the National Water Model
 [![Documentation Status](https://readthedocs.org/projects/nwm/badge/?version=latest)](https://nwm.readthedocs.io/en/latest/?badge=latest)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/gantian127/nwm/blob/master/LICENSE.txt)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gantian127/nwm/master?filepath=notebooks%2Fnwm.ipynb)
 
-
-
-Python library to fetch and process the National Water Model (NWM) NetCDF datasets. 
+These examples Python library to fetch and process the National Water Model (NWM) NetCDF datasets. 
 
 If you have any suggestion to improve the current function of the NWM python library, please create a github issue to connect with Tian
 [here](https://github.com/gantian127/nwm/issues).
@@ -14,9 +12,13 @@ If you have any suggestion to improve the Notebooks used to customize access to 
 ## Online Resources and Steps to Get Oriented to the National Water Model
 
 https://ral.ucar.edu/solutions/products/hydroinspector
+
 https://water.noaa.gov/map
+
 https://toolkit.climate.gov/tool/national-water-model
+
 https://www.esri.com/en-us/industries/water/segments/water-resources/national-water-model
+
 [YouTube Link to Presentation on Flooding:](https://www.youtube.com/watch?v=vywi-Z8RjY0&feature=youtu.be)
 
 [Intelligent Earth Collective Notebooks](https://www.hydroshare.org/resource/86bf0fc015af49c49805b56f5a13bf21/)
