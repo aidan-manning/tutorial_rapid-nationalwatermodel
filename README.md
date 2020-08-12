@@ -30,26 +30,32 @@ https://www.esri.com/en-us/industries/water/segments/water-resources/national-wa
 
 Go to HydroShare.org and login
 www.hydroshare.org  
-Do one time: Go to Collaborate, Find the CUAHSI Compute Group, Ask to Join.
-Next time: Go directly to https://jupyterhub.cuahsi.org
-New users: Get familiar with JupyterHub platform with [Juptyer Notebook new user instructions].   and [JuptyerHub Documentation](https://jupyterhub.readthedocs.io/en/stable/index.html)
-2. 
-3. Launch CUAHSI JupyterHub (or go to jupyterhub.cuahsi.org) and choose the WaterHackWeek 2020 environment profile. This environment will contain all the libraries that we need.
-4. In the Jupyterlab view,  Create a new folder called "Waterhackweek"` (this creates a folder in /home/jovyan/data)
-5. Open an new "Terminal" session and clone the github repository by running the command:
-The terminal opens in /home/jovyan/)
-$ cd data/
-Make a new directory specific to your Github repositories on this server. 
-$ mkdir Github/
-OR
-$ mkdir IntelligentEarth/
-OR
-$ mkdir waterhackweek/
-Clone the github repository by running the command:
-$ git clone 
-$ git clone https://github.com/waterhackweek/whw2020_covid19.git
 
-  
+Do one time: Go to Collaborate, Find the CUAHSI Compute Group, Ask to Join.
+
+Next time: Go directly to https://jupyterhub.cuahsi.org
+
+New users: Get familiar with JupyterHub platform with [Juptyer Notebook new user instructions].   and [JuptyerHub Documentation](https://jupyterhub.readthedocs.io/en/stable/index.html)
+
+3. Launch CUAHSI JupyterHub (or go to jupyterhub.cuahsi.org) and choose the WaterHackWeek 2020 environment profile.
+This environment will contain all the libraries that we need.
+
+4. In the Jupyterlab view,  Create a new folder called "Waterhackweek"` (this creates a folder in /home/jovyan/data)
+
+5. Open an new "Terminal" session and clone the github repository by running the command:
+
+The terminal opens in /home/jovyan/)
+
+$ cd data/
+Make a new directory specific to your Github repositories on this server. /
+$ mkdir Github/
+OR/
+$ mkdir IntelligentEarth/
+OR/
+$ mkdir waterhackweek/
+Clone the github repository by running the command:/
+$ git clone /
+$ git clone https://github.com/waterhackweek/whw2020_covid19.git/
 
 ### Notebook User Instructions for interactive compute on [CSDMS JupyterHub](https://www)
 Work in Progress.
