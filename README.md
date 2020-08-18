@@ -11,10 +11,12 @@ If you have any suggestion to improve the Notebooks used to customize access to 
 
 ## Online Resources and Steps to Get Oriented to the National Water Model
 
+The [Story Map was developed for Hurricane Harvey](https://www.hydroshare.org/resource/8161a96a08474d12bba219852409be61/) to show  usable National Water Model results and provides access to operational forecasts ([learn more about this resource on HydroShare](https://www.hydroshare.org/resource/8161a96a08474d12bba219852409be61/).   
+
 Here is a [National Water Model User Story](
 https://www.esri.com/en-us/industries/water/segments/water-resources/national-water-model) with narrative description of how and why to use the National Water Model, provided by ESRI Water. 
 
-[This orientation to the National Water Model](https://toolkit.climate.gov/tool/national-water-model) is provided as one part of the U.S. Climate Resilence Toolkit. 
+[The U.S. Climate Resilence Toolkit uses the National Water Model to assess vulnerability and risk](https://toolkit.climate.gov/tool/national-water-model) and provides a helpful orientation to the model features. 
 
 [National Water Model interactive Map](https://water.noaa.gov/map) is provided by the Office of Water Prediction (OWP) National Water Center provides water information products from version 2.0 of the National Water Model (NWM). Information about NWM products available through the OWP website can be found in this [Product Description Document](https://water.noaa.gov/documents/OWP-interface-PDD.pdf). Advisory: NWM products do not yet incorporate anthropogenic influence and should be used with some caution. The NWM is currently undergoing extensive validation and verification to identify where scientific updates to the model can make the most improvement. The next version of the NWM will be released in the late spring 2020 time frame. [Click here for more information about the NWM.](https://water.noaa.gov/about/nwm)
 
@@ -22,7 +24,9 @@ https://www.esri.com/en-us/industries/water/segments/water-resources/national-wa
 
 [Intelligent Earth Collective Notebooks](https://www.hydroshare.org/resource/86bf0fc015af49c49805b56f5a13bf21/)
 are designed for developers and instructors of interactive curriculum for research and education using Python, Jupyter, and HydroShare.
- 
+
+Download subset maps and time series using the [National Water Model Data Viewer on HydroShare App](https://hs-apps.hydroshare.org/apps/nwm-forecasts/).
+
 ## Technical Steps to Get Started 
 
 ### Notebook User Instructions for interactive compute [CUAHSI Compute]
@@ -159,3 +163,6 @@ The CONTRACTOR agrees that payment listed purchases all print and electronic rig
 
 ```
 
+# REFERENCES
+
+Arctur, D., E. Boghici (2018). Hurricane Harvey 2017 Story Map, HydroShare, https://doi.org/10.4211/hs.8161a96a08474d12bba219852409be61
