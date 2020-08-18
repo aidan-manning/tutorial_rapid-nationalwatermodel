@@ -11,18 +11,17 @@ If you have any suggestion to improve the Notebooks used to customize access to 
 
 ## Online Resources and Steps to Get Oriented to the National Water Model
 
-https://ral.ucar.edu/solutions/products/hydroinspector
+Here is a [National Water Model User Story](
+https://www.esri.com/en-us/industries/water/segments/water-resources/national-water-model) with narrative description of how and why to use the National Water Model, provided by ESRI Water. 
 
-https://water.noaa.gov/map
+[This orientation to the National Water Model](https://toolkit.climate.gov/tool/national-water-model) is provided as one part of the U.S. Climate Resilence Toolkit. 
 
-https://toolkit.climate.gov/tool/national-water-model
+[National Water Model interactive Map](https://water.noaa.gov/map) is provided by the Office of Water Prediction (OWP) National Water Center provides water information products from version 2.0 of the National Water Model (NWM). Information about NWM products available through the OWP website can be found in this [Product Description Document](https://water.noaa.gov/documents/OWP-interface-PDD.pdf). Advisory: NWM products do not yet incorporate anthropogenic influence and should be used with some caution. The NWM is currently undergoing extensive validation and verification to identify where scientific updates to the model can make the most improvement. The next version of the NWM will be released in the late spring 2020 time frame. [Click here for more information about the NWM.](https://water.noaa.gov/about/nwm)
 
-https://www.esri.com/en-us/industries/water/segments/water-resources/national-water-model
-
-[YouTube Link to Presentation on Flooding:](https://www.youtube.com/watch?v=vywi-Z8RjY0&feature=youtu.be)
+[WRF-Hydro HydroInspector](https://ral.ucar.edu/solutions/products/hydroinspector) is a state-of-the-art Web Mapping Service (WMS) that allows users to manipulate and interact with a host of hydrologic observation and hydrologic model output data. WRF-Hydro is the model used to generate National Water Model simulations. 
 
 [Intelligent Earth Collective Notebooks](https://www.hydroshare.org/resource/86bf0fc015af49c49805b56f5a13bf21/)
- Analysis of Vegetation Damage Caused by an Hurricane using Matlab 
+are designed for developers and instructors of interactive curriculum for research and education using Python, Jupyter, and HydroShare.
  
 ## Technical Steps to Get Started 
 
