@@ -1,7 +1,7 @@
 # RAPID access to the National Water Model
 [![Documentation Status](https://readthedocs.org/projects/nwm/badge/?version=latest)](https://nwm.readthedocs.io/en/latest/?badge=latest)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/gantian127/nwm/blob/master/LICENSE.txt)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gantian127/nwm/master?filepath=notebooks%2Fnwm.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rapid-research/rapid-nationalwatermodel/master?filepath=notebooks%2Fnwm-harvey.ipynb)
 
 These examples Python library to fetch and process the National Water Model (NWM) NetCDF datasets. 
 
