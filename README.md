@@ -42,7 +42,7 @@ New users: Get familiar with JupyterHub platform with [Juptyer Notebook new user
 3. Launch CUAHSI JupyterHub (or go to jupyterhub.cuahsi.org) and choose the WaterHackWeek 2020 environment profile.
 This environment will contain all the libraries that we need.
 
-4. In the Jupyterlab view,  Create a new folder called "Waterhackweek"` (this creates a folder in /home/jovyan/data)
+4. In the Jupyterlab view,  Create a new folder called "Github"` (this creates a folder in /home/jovyan/data)
 
 5. Open an new "Terminal" session and clone the github repository by running the command:
 
@@ -55,7 +55,7 @@ The terminal opens in /home/jovyan/
 Make a new directory specific to your Github repositories on this server. 
 
 ```
-> mkdir Github`     OR    > `mkdir IntelligentEarth`     OR     > `mkdir waterhackweek`
+> mkdir Github   
 
 ```
 Clone the github repository by running the command:
